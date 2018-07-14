@@ -5,5 +5,3 @@ myheader.hsdf
 asdfasdfasdf
 
 
-Upateasdfasdf
-local update
